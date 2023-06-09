@@ -32,7 +32,7 @@ public class dailySpecials1 {
 
         switch (specials) {
 
-            // my cases will be the day of the week
+            // my cases will be the day of the weeksecond
             case "Monday" -> {
                 coffee = " Latte";
                 price = 4.95;
